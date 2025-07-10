@@ -34,6 +34,16 @@ SnakeGame/
 
 ---
 
+📚 Concepts Used
+
+Java Swing (JFrame, JPanel, Timer)
+
+AWT Event Handling (KeyListener)
+
+Object-Oriented Programming
+
+2D Grid-Based Movement
+
 ## 🚀 How to Run
 
 1. **Clone this repo**

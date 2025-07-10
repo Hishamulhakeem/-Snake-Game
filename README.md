@@ -4,9 +4,10 @@ A simple Snake Game built in Java using `Swing` and `AWT`. The game features cla
 
 ---
 
-## 🎮 Demo
+## 🎮 Demo Image 
 
-*(Insert demo video or GIF here, e.g. YouTube or GitHub upload)*
+<img width="736" height="735" alt="image" src="https://github.com/user-attachments/assets/52d2d321-dcf3-46bb-ac28-c77944c2bac6" />
+
 
 ---
 
@@ -14,7 +15,7 @@ A simple Snake Game built in Java using `Swing` and `AWT`. The game features cla
 
 SnakeGame/
 
-├── snakeGame.java # Entry point (main class)
+├── snakeGame.java # Entry point 
 
 ├── gameFrame.java # Sets up the game window (JFrame)
 

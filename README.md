@@ -12,3 +12,10 @@ A simple Snake Game built in Java using `Swing` and `AWT`. The game features cla
 
 ## 📂 Project Structure
 
+SnakeGame/
+
+├── snakeGame.java # Entry point (main class)
+
+├── gameFrame.java # Sets up the game window (JFrame)
+
+├── gamePanel.java # Contains game logic, rendering, and controls

@@ -6,8 +6,7 @@ A simple Snake Game built in Java using `Swing` and `AWT`. The game features cla
 
 ## 🎮 Demo
 
-https://user-images.githubusercontent.com/your-upload-path/Snake_Game_Demo.mp4  
-*(Replace with your video/GIF link or GitHub upload)*
+*(Insert demo video or GIF here, e.g. YouTube or GitHub upload)*
 
 ---
 

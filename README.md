@@ -19,3 +19,23 @@ SnakeGame/
 ├── gameFrame.java # Sets up the game window (JFrame)
 
 ├── gamePanel.java # Contains game logic, rendering, and controls
+
+---
+
+## 🛠️ Features
+
+- Smooth keyboard-based snake movement  
+- Random food generation  
+- Score tracking  
+- Self-collision detection  
+- Game over alert  
+- GUI rendering with `JPanel`, `Timer`, and key bindings
+
+---
+
+## 🚀 How to Run
+
+1. **Clone this repo**
+   ```bash
+   git clone https://github.com/Hishamulhakeem/Snake-Game.git
+   cd snake-game-java
